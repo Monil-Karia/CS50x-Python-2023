@@ -65,8 +65,6 @@ print(f"{z:,}")
 #Output - 1,000
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c7ea855-61d8-4365-b689-c99ba493e19a/Untitled.png)
-
 </aside>
 
 <aside>
