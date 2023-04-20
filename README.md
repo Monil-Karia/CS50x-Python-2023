@@ -1,5 +1,5 @@
 # CS50x-Python #
-__Welcome to my CS50's Python Programming Course! This repository is a personal log where I keep track of my progress in the course, including my coding exercises, notes, and new concepts that I learn along the way.__
+__Welcome to my CS50's Python Programming Course! This repository is a personal log where I keep track of my progress in the course, including my coding exercises, notes, assignments, and new concepts that I learn along the way.__
 
 ### Here's what you can find in this repository: ###
 
@@ -7,6 +7,8 @@ __Welcome to my CS50's Python Programming Course! This repository is a personal 
 
 * Theory Notes: In addition to the coding challenges, I will also include my personal notes on the theoretical concepts covered in the course. These notes will provide a summary of key ideas, definitions, and examples, as well as my own reflections and questions.
 
+* Assignments: I will also be uploading the assignments given as part of the course, along with the day on which they can be done. These assignments will help me apply the concepts learned in class to real-world problems.
+
 * Finally, I will keep a record of my daily progress in the course, including the topics covered. This will help me stay motivated and focused on my goals, and will also provide a valuable reference for future learning.
 
-_Feel free to browse, fork, and contribute to this repository! I hope that it will inspire you to start your own journey in Python programming, or to continue learning and exploring new horizons. Happy coding!_
+_Feel free to browse, fork, and contribute to this repository! I hope that it will inspire you to start your own journey in Python programming or to continue learning and exploring new horizons. Happy coding!_
