@@ -32,7 +32,7 @@ except ValueError:
 	print("x is not an integer")
 ```
 
-NameError is present in this code because the reason is  when we return ‘cat’ input in the int function the int return a value error means the x till now doesn’t go the value as ‘cat’ and hence as x didn’t get the value of the ‘cat’ is shows the error as NameError as there was never a value of x in the program . 
+NameError is present in this code because the reason is when we return ‘cat’ as input in the int function the int return a value error means the x till now doesn’t know the value as ‘cat’ and hence as x didn’t get the value it shows the error as NameError as there was never a value of x in the program . 
 
 ```python
 
@@ -62,7 +62,7 @@ else:
 
 Here we are refering pass to ignoring the error , not wanted to print something , to do something with the error or just ignore it and moving forward.
 
-### raise - The `[raise](https://docs.python.org/3/reference/simple_stmts.html#raise)`statement allows the programmer to force a specified exception to occur.
+### raise - The __raise__ statement allows the programmer to force a specified exception to occur.
 
 Example Code → 
 
