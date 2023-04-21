@@ -4,12 +4,12 @@ Logical errors or Bugs in the program
 
 we want a output as  → height(4)
 
+```
 #
 ##
-
 ###
-
 ####
+```
 
 ```python
 def main():
