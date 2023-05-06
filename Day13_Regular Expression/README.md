@@ -24,8 +24,8 @@ Here in the program we can see that + is used as well as . is used to check that
 
 - In the search function we have some special functions we have:
     - . → any character except newline
-    - * → 0 or more reptations
-    - + →1 or more reptations
+    - '*' → 0 or more reptations
+    - '+' →1 or more reptations
     - ? → 0 or 1 reptations
     - {m} → m for reptations
     - {m,n} → m - n reptations
@@ -46,7 +46,7 @@ Here in the program we can see that + is used as well as . is used to check that
                 print("Valid")
             ```
             
-    - [ ] → Set of characters
+    - '[ ]' → Set of characters
     - [ ^ ] → complementing the set  (except)
         - Code Example →
             
