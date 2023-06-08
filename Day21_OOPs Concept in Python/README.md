@@ -113,8 +113,6 @@ class methods → Here we define that the no matter what the object is calling o
     
 - You can learn more in Python’s documentation of [exceptions](https://docs.python.org/3/library/exceptions.html).
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e9d99ba-9dfe-4bb0-9e9a-a24c79a90c8f/Untitled.png)
-
 ## Operator Overloading
 
 Some operators such as `+` and `-` can be “overloaded” such that they can have more abilities beyond simple arithmetic.
